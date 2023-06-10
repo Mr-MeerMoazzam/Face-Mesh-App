@@ -14,11 +14,11 @@ This repository contains the code for a Face Mesh App developed using MediaPipe 
 ## Installation
 1. Clone the repository:
 
-```git clone```
+```git clone https://github.com/Mr-MeerMoazzam/Face-Mesh-App.git```
 
 2. Navigate to the project directory:
 
-```git clone```
+```cd Face-Mesh-App```
 
 3. Install the required dependencies:
 
@@ -26,3 +26,13 @@ This repository contains the code for a Face Mesh App developed using MediaPipe 
 
 ## Usage
 To run the app on an image, use the following command:
+
+``` streamlit run app.py```
+
+The app will open in your default web browser. Follow the instructions on the interface to upload an image/video or use the webcam. Adjust the parameters in the sidebar to customize the face detection and visualization settings. Explore the detected faces and the output images/videos in the app.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+For any inquiries or questions, feel free to reach out to me at meermoazzam41@gmail.com 
